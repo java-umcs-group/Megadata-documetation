@@ -16,10 +16,7 @@ Damian Chrząszcz ( celem jest nauka back endu, ale i front się przyda )
 Kamil Kochański (Stawiam na back end. Chciałbym się nauczyć konfigurowania serwera Jenkins :) )
 
 
-Nazwa sklepu
-Niby błacha rzecz a ważna. Moje propozycje: 
-Megadata, FastKomp, MediaKomp, ArtKomp
-Proszę o składanie swoich propozycji, sam nie chce być przy obmyślaniu (żeby nie było że ja się rządze)
+Nazwa sklepu: Megadata
 
 Założenia co do funkcjonalności
 Logowanie (zakupy bez przymusu logowania)
