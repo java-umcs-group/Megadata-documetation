@@ -1,0 +1,45 @@
+Projekt sklepu internetowego
+
+Slack: komunikator
+https://java-umcs-group.slack.com/messages/general/
+
+Trello: planowanie i zadania (jak Jira)
+https://trello.com/invite/javaumcsgroup/c08046b66a8c9f9872522a2a654e4033
+
+Ludzie zaangażowani w projekt
+Proszę o pisanie preferencji co do klepania jakich częsci kodu (chodzi o to kto jest w czym mocny lub co chciałby się nauczyć)
+Michał Olszak (głównie back end, ale i front też chciałbym się nauczyć)
+Kuba Pyda (full-stack developer :D)
+Tomasz Szerszeń ( ogólnie to nic nie umiem, ale chce się nauczyć back, mimo że trochę ogarniam front, oczywiście front też mogę klepać )
+Grzegorz Bryda (back endu chciałbym się nauczyć i może front ale bardziej zależy mi na back endzie :) )
+Damian Chrząszcz ( celem jest nauka back endu, ale i front się przyda )
+Kamil Kochański (Stawiam na back end. Chciałbym się nauczyć konfigurowania serwera Jenkins :) )
+
+
+Nazwa sklepu
+Niby błacha rzecz a ważna. Moje propozycje: 
+Megadata, FastKomp, MediaKomp, ArtKomp
+Proszę o składanie swoich propozycji, sam nie chce być przy obmyślaniu (żeby nie było że ja się rządze)
+
+Założenia co do funkcjonalności
+Logowanie (zakupy bez przymusu logowania)
+Kategorie i podkategorie towarów
+Mailing do konsumentów (SimpleMail uzywajac klienta np gmail, albo swój system malingowy)
+(Może) bramka sms do powiadamiania konsumentów 
+(Jak możliwe i czy chcemy drążyć grube sprawy) - płatności (PayPal, uPay, karty płatnicze). Jak nie chcemy to obstaniemy na “niby” dokonanej płatności
+Drukowanie faktur (iText lub co innego do pdfa)
+
+Jakie towary chcemy
+Głównym założeniem były same podzespoły komputerowe: Procesory, Płyty główne, RAM, HDD, SSD, Karty graficzne, Zasilacze.
+Równie dobrze można pójśc już w składanie całego kompa: + Obudowy, klawiatury, myszki, monitory.
+Jak najdzie wena to i można o niektóre perypetie uderzyć (Drukarki, zewnętrzne dyski, pendrivy itp). Jak wyjdzie za dużo wszystkiego to sie uszczupli asortyment.
+
+Ogólny zarys systemu
+Wg koncepcji Szymona, polecimy po biznesowemu. Oddzielna aplikacja frontowa, i aplikacja backendowa. 
+
+Front: Angular ?
+
+Zarys bazy danych
+Jak narazie rozkmina co ma być potrzebne w DB, aby potem na biegu nie dodawać zapomnianych tabel itp
+Użytkownicy, Produkty, Zamówienia, Wysyłka, Płatności(Transakcje), Magazyn(Stan), Rodzaje wysyłki
+
